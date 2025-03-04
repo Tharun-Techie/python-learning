@@ -1,0 +1,51 @@
+Patient ID,Name,Age,Gender,Admission Date,Department,Diagnosis,Treatment Plan
+1,John Doe,45,Male,2025-02-01,Cardiology,Heart Disease,Medication and Surgery
+2,Jane Smith,30,Female,2025-02-02,Neurology,Severe Migraine,Medication
+3,Emily Davis,60,Female,2025-02-03,Orthopedics,Knee Injury,Surgery
+4,Michael Brown,50,Male,2025-02-04,Cardiology,High Blood Pressure,Medication
+5,David Clark,70,Male,2025-02-05,Oncology,Lung Cancer,Chemotherapy
+6,Sarah White,33,Female,2025-02-06,Neurology,Epilepsy,Medication
+7,William Johnson,55,Male,2025-02-07,Orthopedics,Spinal Fracture,Surgery
+8,Lily Green,28,Female,2025-02-08,Cardiology,Heart Palpitations,Medication
+9,James Wilson,65,Male,2025-02-09,Oncology,Prostate Cancer,Radiation Therapy
+10,Olivia Taylor,40,Female,2025-02-10,Orthopedics,Ankle Sprain,Physical Therapy
+11,Michael Scott,35,Male,2025-02-11,Neurology,Parkinson's Disease,Medication
+12,John Williams,48,Male,2025-02-12,Cardiology,Heart Attack,Bypass Surgery
+13,Emily Jackson,60,Female,2025-02-13,Oncology,Breast Cancer,Chemotherapy
+14,David Anderson,50,Male,2025-02-14,Orthopedics,Elbow Injury,Surgery
+15,Charlotte Lee,38,Female,2025-02-15,Cardiology,Arrhythmia,Medication
+16,Andrew Walker,46,Male,2025-02-16,Neurology,Multiple Sclerosis,Medication
+17,Amelia Harris,72,Female,2025-02-17,Oncology,Pancreatic Cancer,Chemotherapy
+18,Daniel Martin,29,Male,2025-02-18,Orthopedics,Fractured Leg,Surgery
+19,Aiden Carter,52,Male,2025-02-19,Cardiology,Heart Failure,Medication
+20,Chloe Mitchell,40,Female,2025-02-20,Neurology,Stroke,Rehabilitation
+21,James Taylor,65,Male,2025-02-21,Orthopedics,Shoulder Dislocation,Physical Therapy
+22,Olivia Anderson,55,Female,2025-02-22,Cardiology,Angina,Medication
+23,Jacob Robinson,36,Male,2025-02-23,Oncology,Liver Cancer,Transplant Surgery
+24,Sophia Martinez,32,Female,2025-02-24,Orthopedics,Back Pain,Physical Therapy
+25,Liam Garcia,47,Male,2025-02-25,Cardiology,Hypertension,Medication
+26,Zoe Clark,38,Female,2025-02-26,Neurology,Alzheimer's Disease,Medication
+27,Lucas Young,42,Male,2025-02-27,Oncology,Kidney Cancer,Chemotherapy
+28,Isabella Allen,60,Female,2025-02-28,Orthopedics,Hip Replacement,Surgery
+29,Jack King,33,Male,2025-03-01,Cardiology,Angina,Medication
+30,Mia Scott,70,Female,2025-03-02,Oncology,Leukemia,Chemotherapy
+31,Oliver Harris,53,Male,2025-03-03,Orthopedics,Torn Ligament,Physical Therapy
+32,Ava Walker,61,Female,2025-03-04,Cardiology,Stroke,Rehabilitation
+33,Jackson Green,34,Male,2025-03-05,Neurology,Brain Tumor,Surgery
+34,Eva Wilson,60,Female,2025-03-06,Oncology,Ovarian Cancer,Surgery
+35,William Taylor,65,Male,2025-03-07,Orthopedics,Fractured Hip,Surgery
+36,Grace Martin,39,Female,2025-03-08,Cardiology,Heart Disease,Medication and Surgery
+37,Elijah Robinson,48,Male,2025-03-09,Neurology,Multiple Sclerosis,Medication
+38,Samuel Brown,55,Male,2025-03-10,Oncology,Brain Cancer,Surgery
+39,Lily Johnson,66,Female,2025-03-11,Orthopedics,Spinal Stenosis,Physical Therapy
+40,Liam Anderson,45,Male,2025-03-12,Cardiology,Cardiomyopathy,Medication
+41,Sophia Davis,50,Female,2025-03-13,Neurology,Severe Headache,Medication
+42,Henry Clark,68,Male,2025-03-14,Oncology,Colon Cancer,Chemotherapy
+43,Charlotte Martinez,30,Female,2025-03-15,Orthopedics,Torn ACL,Surgery
+44,James Robinson,56,Male,2025-03-16,Cardiology,Arrhythmia,Medication
+45,Amelia Allen,62,Female,2025-03-17,Oncology,Bladder Cancer,Surgery
+46,David Taylor,37,Male,2025-03-18,Orthopedics,Shoulder Injury,Physical Therapy
+47,Isabella King,43,Female,2025-03-19,Cardiology,Heart Murmur,Medication
+48,Jacob Walker,51,Male,2025-03-20,Neurology,Seizure Disorder,Medication
+49,Aiden Harris,40,Male,2025-03-21,Oncology,Esophageal Cancer,Radiation Therapy
+50,Chloe Young,53,Female,2025-03-22,Orthopedics,Rotator Cuff Tear,Surgery

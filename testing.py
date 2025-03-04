@@ -1,19 +1,29 @@
-import re
-from playwright.sync_api import Playwright, sync_playwright, expect
+# Python program for implementation of Insertion Sort
 
+# Function to sort array using insertion sort
+def insertionSort(arr):
+    for i in range(1, len(arr)):
+        key = arr[i]
+        j = i - 1
 
-def run(playwright: Playwright) -> None:
-    browser = playwright.chromium.launch(headless=True)
-    context = browser.new_context()
-    page = context.new_page()
-    page.get_by_role("heading", name=":00 am").click()
+        # Move elements of arr[0..i-1], that are
+        # greater than key, to one position ahead
+        # of their current position
+        while j >= 0 and key < arr[j]:
+            arr[j + 1] = arr[j]
+            j -= 1
+        arr[j + 1] = key
 
-    # ---------------------
-    context.close()
-    browser.close()
-    
-    
+# A utility function to print array of size n
+def printArray(arr):
+    for i in range(len(arr)):
+        print(arr[i], end=" ")
+    print()
 
+# Driver method
+if __name__ == "__main__":
+    arr = [12, 11, 13, 5, 6]
+    insertionSort(arr)
+    printArray(arr)
 
-with sync_playwright() as playwright:
-    run(playwright.chromium)
+    # This code is contributed by Hritik Shah.
